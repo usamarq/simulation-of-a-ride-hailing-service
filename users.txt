@@ -1,0 +1,5 @@
+4
+01112	Lahore	Faisalabad	0
+1222	Lahore	Sheikhupura	1
+10	Faisalabad	Islamabad	0
+20	Multan	Sheikhupura	1
